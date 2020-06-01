@@ -1,2 +1,2 @@
 # Algorithms-and-Data-Structures-II
-Course taken in the Fall semester of 2018.
+1. Assignment 1 - Quick Select
